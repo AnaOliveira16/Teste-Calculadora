@@ -27,7 +27,7 @@ public class AddingNumbersTests {
 		 Assert.assertEquals("The the sum of two negative numbers is correct" , expectedResult, ActuaResult); 
 		 } 
 		
-// mwhyd8oike5ryd76riuytyiuo
+
 
 	}
 
